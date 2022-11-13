@@ -1,0 +1,13 @@
+{
+  "loginData": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "registrationData": {
+    "firstname": "Adi",
+    "lastname": "Patel",
+    "postalcode": "ABC 123",
+    "emailid": "Abc12345@gmail.com",
+    "dob": "02-02-1996"
+  }
+}
